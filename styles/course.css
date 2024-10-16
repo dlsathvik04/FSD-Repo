@@ -1,0 +1,30 @@
+.module {
+    background-color: rgb(222, 222, 222);
+    padding: 1em;
+    text-align: center;
+    margin: 2em;
+}
+
+.quiz-btn {
+    margin: 2em;
+    background-color: black;
+    width: 10em;
+    margin: auto;
+    text-decoration: none;
+    color: white;
+    padding: 1em;
+}
+
+.module h2 {
+    text-align: center;
+}
+
+.video-embed {
+    text-align: center;
+    margin: 1px;
+}
+.module iframe {
+    width: 40em;
+    height: 20em;
+    margin-inline: auto;
+}

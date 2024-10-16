@@ -1,0 +1,15 @@
+.hero {
+    margin-top: 30vh;
+    text-align: center;
+    scale: 3.5;
+    height: 100%;
+    /* background-color: antiquewhite; */
+}
+
+input {
+    scale: calc(2 / 3.5);
+}
+
+.hero h3 {
+    font-weight: 400;
+}

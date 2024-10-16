@@ -1,0 +1,31 @@
+.nav ul {
+    list-style: none;
+}
+
+.nav {
+    background-color: rgb(222, 222, 222);
+    text-align: center;
+}
+
+.nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.nav ul li {
+    text-decoration: none;
+    padding: 10px;
+    display: inline;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.nav ul li h3 {
+    display: inline;
+    margin-right: calc(60vw);
+}
+
+.nav ul li:first-child {
+    border: unset;
+    background-color: unset;
+}

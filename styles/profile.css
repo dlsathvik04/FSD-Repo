@@ -1,0 +1,33 @@
+.userprofile {
+    background-color: rgb(222, 222, 222);
+    padding: 1em;
+    max-width: 40em;
+    margin-inline: auto;
+    margin-block: 2em;
+}
+.userprofile h2 {
+    text-align: center;
+}
+
+.userprofile img {
+    max-width: 40%;
+}
+
+.profile-image {
+    text-align: center;
+}
+
+.certifications {
+    max-width: 60em;
+    margin-inline: auto;
+}
+
+.certifications h2 {
+    text-align: center;
+}
+
+.cert {
+    border: 1px solid black;
+    padding: 1em;
+    margin-block: 1em;
+}

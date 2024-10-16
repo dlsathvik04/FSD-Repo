@@ -1,0 +1,39 @@
+.your-courses {
+    overflow-x: scroll;
+    display: flex;
+    /* justify-content: ; */
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+.recommended-courses {
+    display: flex;
+    /* justify-content: ; */
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.course {
+    padding: 1em;
+    margin: 1em;
+    background-color: rgb(222, 222, 222);
+    min-width: 20em;
+    max-width: 20em;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.course img {
+    width: 100%;
+}
+
+.course a .btn {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: inline;
+    padding: 0.5em;
+    margin: auto;
+}
